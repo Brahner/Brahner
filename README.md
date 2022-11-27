@@ -5,6 +5,7 @@
 
 <img src='https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif' width='120'>
 ### :man_technologist: About Me :
+
 - :telescope: I'm studying web development.
 
 - :seedling: I create adaptive websites based on figma layouts and without layouts.
