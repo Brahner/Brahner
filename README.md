@@ -29,4 +29,4 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Brahner&theme=gruvbox&show_icons=true&count_private=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brahner&theme=gruvbox&hide_border=true&locale=ru)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Brahner&theme=gruvbox)](https://github.com/Brahner/github-profile-trophy)
-[![codewars](https://www.codewars.com/users/Brahner/badges/small)](https://www.codewars.com/users/Brahner)
+[![codewars](https://www.codewars.com/users/Brahner/badges/micro)](https://www.codewars.com/users/Brahner)
