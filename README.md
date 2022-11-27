@@ -14,6 +14,7 @@
 - :zap: In my free time I study js and design..
 
 - :mailbox:How to reach me: 
+
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Brahner) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brachneq@gmail.com)
 
 
@@ -26,7 +27,7 @@
 
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brahner&layout=compact&theme=gruvbox)](https://github.com/Brahner/github-readme-stats)
-![Github stats](https://github-readme-stats.vercel.app/api?username=Brahner&theme=gruvbox&show_icons=true&count_private=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brahner&theme=gruvbox&hide_border=true&locale=ru)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Brahner&theme=gruvbox)](https://github.com/Brahner/github-profile-trophy)
+
 [![codewars](https://www.codewars.com/users/Brahner/badges/micro)](https://www.codewars.com/users/Brahner)
