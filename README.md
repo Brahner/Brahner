@@ -27,7 +27,7 @@
 
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brahner&layout=compact&theme=gruvbox)](https://github.com/Brahner/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brahner&theme=gruvbox&hide_border=true&locale=ru)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Brahner&theme=gruvbox&locale=ru)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Brahner&theme=gruvbox)](https://github.com/Brahner/github-profile-trophy)
 
 [![codewars](https://www.codewars.com/users/Brahner/badges/micro)](https://www.codewars.com/users/Brahner)
